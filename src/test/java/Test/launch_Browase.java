@@ -15,7 +15,7 @@ public class launch_Browase
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		driver.manage().window().maximize();
 		driver.get("https://www.google.com");
-		driver.close();
+		driver.quit();
 	}
 
 }
