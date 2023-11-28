@@ -7,7 +7,8 @@ public class Hellotest {
 	public void data()
 	{
 		System.out.println("Hi manoj its done by salma");
-		System.out.println("Hi manoj its done by Mujeeb");
+		System.out.println("Hi manoj its done by Rehaman");
+		
 	}
 
 }
