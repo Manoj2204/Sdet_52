@@ -16,6 +16,7 @@ public class launch_Browase
 		driver.manage().window().maximize();
 		driver.get("https://www.google.com");
 		driver.close();
+		System.out.println("Salma");
 	}
 
 }
