@@ -2,7 +2,9 @@ package Test;
 
 public class test1 
 {
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
+		System.out.println("Mujeeb Ur Rehaman");
 		
 	}
 
