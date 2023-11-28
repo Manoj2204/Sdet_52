@@ -10,6 +10,7 @@ public class launch_Browase
 	public void test()
 	{
 		WebDriver driver = new ChromeDriver();
+		driver.manage().timeouts().
 		driver.manage().window().maximize();
 		driver.get("https://www.google.com");
 	}
